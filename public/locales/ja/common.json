@@ -872,5 +872,9 @@
         "labels": "ラベル",
         "users": "ユーザ",
         "totalValue": "合計値"
+    },
+    "crowdsec": {
+        "alerts": "アラート",
+        "bans": "Bans"
     }
 }

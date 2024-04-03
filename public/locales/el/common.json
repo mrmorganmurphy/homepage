@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "Χρήστες",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "Ειδοποιήσεις",
+        "bans": "Bans"
     }
 }

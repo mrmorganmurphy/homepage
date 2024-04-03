@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "Utenti",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "Allarmi",
+        "bans": "Bans"
     }
 }

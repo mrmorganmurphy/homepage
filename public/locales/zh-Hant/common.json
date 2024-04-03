@@ -858,7 +858,7 @@
         "studios": "工作室",
         "movies": "電影",
         "tags": "標籤",
-        "oCount": "O Count"
+        "oCount": "0 個"
     },
     "tandoor": {
         "users": "用戶",
@@ -867,10 +867,14 @@
     },
     "homebox": {
         "items": "項目",
-        "totalWithWarranty": "With Warranty",
+        "totalWithWarranty": "有保証",
         "locations": "位置",
         "labels": "標籤",
         "users": "用戶",
         "totalValue": "總共"
+    },
+    "crowdsec": {
+        "alerts": "警示",
+        "bans": "禁止"
     }
 }

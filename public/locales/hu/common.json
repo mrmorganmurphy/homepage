@@ -872,5 +872,9 @@
         "labels": "Címkék",
         "users": "Felhasználók",
         "totalValue": "Teljes érték"
+    },
+    "crowdsec": {
+        "alerts": "Riasztások",
+        "bans": "Bans"
     }
 }

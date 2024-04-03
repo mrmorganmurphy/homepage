@@ -872,5 +872,9 @@
         "labels": "Etiketler",
         "users": "Kullanıcılar",
         "totalValue": "Toplam Değer"
+    },
+    "crowdsec": {
+        "alerts": "Alarmlar",
+        "bans": "Bans"
     }
 }

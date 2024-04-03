@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "Brugere",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "Advarsler",
+        "bans": "Bans"
     }
 }

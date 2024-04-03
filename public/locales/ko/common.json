@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "사용자",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "경고",
+        "bans": "Bans"
     }
 }

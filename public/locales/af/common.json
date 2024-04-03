@@ -872,5 +872,9 @@
         "labels": "Etikette",
         "users": "Gebruikers",
         "totalValue": "Totale Waarde"
+    },
+    "crowdsec": {
+        "alerts": "Waarskuwings",
+        "bans": "Bans"
     }
 }

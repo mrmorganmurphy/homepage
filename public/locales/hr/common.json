@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "Korisnici",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "Upozorenja",
+        "bans": "Bans"
     }
 }

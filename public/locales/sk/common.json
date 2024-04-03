@@ -872,5 +872,9 @@
         "labels": "Labels",
         "users": "Používatelia",
         "totalValue": "Total Value"
+    },
+    "crowdsec": {
+        "alerts": "Upozornenia",
+        "bans": "Bans"
     }
 }

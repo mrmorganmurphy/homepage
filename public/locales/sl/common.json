@@ -872,5 +872,9 @@
         "labels": "Oznake",
         "users": "Uporabniki",
         "totalValue": "Skupna vrednost"
+    },
+    "crowdsec": {
+        "alerts": "Opozorila",
+        "bans": "Prepovedi"
     }
 }
